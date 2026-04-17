@@ -1,0 +1,57 @@
+,Country Group,Item Code (CPC),Item,Average Value
+0,High-income economies,02211,Raw milk of cattle,704.2925
+0b,High-income economies,02212,Raw milk of buffalo,729.6333333333333
+1,High-income economies,02291,Raw milk of sheep,1316.0300000000002
+2,High-income economies,02292,Raw milk of goats,1355.95
+3,High-income economies,0231,"Hen eggs in shell, fresh",2719.218918918919
+4,High-income economies,02941,"Shorn wool, greasy, including fleece-washed shorn wool",785.71875
+5,High-income economies,21111.01,"Meat of cattle with the bone, fresh or chilled",6147.75
+6,High-income economies,21112,"Meat of buffalo, fresh or chilled",11650.6
+7,High-income economies,21113.01,"Meat of pig with the bone, fresh or chilled",2305.866666666667
+8,High-income economies,21115,"Meat of sheep, fresh or chilled",6255.09375
+9,High-income economies,21116,"Meat of goat, fresh or chilled",6762.988888888889
+10,High-income economies,21118.01,"Horse meat, fresh or chilled",1917.4333333333334
+11,High-income economies,21121,"Meat of chickens, fresh or chilled",2744.5625
+12,High-income economies,21122,"Meat of ducks, fresh or chilled",6379.2
+13,Low income economies,02211,Raw milk of cattle,718.1333333333333
+13b,Low income economies,02212,Raw milk of buffalo,1527.3333333333333
+14,Low income economies,02291,Raw milk of sheep,183.6
+15,Low income economies,02292,Raw milk of goats,248.2
+16,Low income economies,0231,"Hen eggs in shell, fresh",3011.56
+16b,Low income economies,02941,"Shorn wool, greasy, including fleece-washed shorn wool",1528.3500000000001
+17,Low income economies,21111.01,"Meat of cattle with the bone, fresh or chilled",6285.9
+17b,Low income economies,21112,"Meat of buffalo, fresh or chilled",3658.1666666666665
+17t,Low income economies,21113.01,"Meat of pig with the bone, fresh or chilled",3445.38
+18,Low income economies,21115,"Meat of sheep, fresh or chilled",7029.0
+19,Low income economies,21116,"Meat of goat, fresh or chilled",7029.0
+19b,Low income economies,21118.01,"Horse meat, fresh or chilled",4903.4
+20,Low income economies,21121,"Meat of chickens, fresh or chilled",2939.8
+20b,Low income economies,21122,"Meat of ducks, fresh or chilled",2141.6
+21,Lower-middle-income economies,02211,Raw milk of cattle,807.58
+22,Lower-middle-income economies,02212,Raw milk of buffalo,1527.3333333333333
+23,Lower-middle-income economies,02291,Raw milk of sheep,2674.9666666666667
+24,Lower-middle-income economies,02292,Raw milk of goats,2327.65
+25,Lower-middle-income economies,0231,"Hen eggs in shell, fresh",2158.3
+26,Lower-middle-income economies,02941,"Shorn wool, greasy, including fleece-washed shorn wool",1528.3500000000001
+27,Lower-middle-income economies,21111.01,"Meat of cattle with the bone, fresh or chilled",6876.3
+28,Lower-middle-income economies,21112,"Meat of buffalo, fresh or chilled",3658.1666666666665
+29,Lower-middle-income economies,21113.01,"Meat of pig with the bone, fresh or chilled",3445.38
+30,Lower-middle-income economies,21115,"Meat of sheep, fresh or chilled",9021.3
+31,Lower-middle-income economies,21116,"Meat of goat, fresh or chilled",5093.3
+32,Lower-middle-income economies,21118.01,"Horse meat, fresh or chilled",4903.4
+33,Lower-middle-income economies,21121,"Meat of chickens, fresh or chilled",3816.7999999999997
+34,Lower-middle-income economies,21122,"Meat of ducks, fresh or chilled",2141.6
+35,Upper-middle-income economies,02211,Raw milk of cattle,492.208
+36,Upper-middle-income economies,02212,Raw milk of buffalo,729.6333333333333
+37,Upper-middle-income economies,02291,Raw milk of sheep,742.9571428571428
+38,Upper-middle-income economies,02292,Raw milk of goats,530.2
+39,Upper-middle-income economies,0231,"Hen eggs in shell, fresh",2225.1479999999997
+40,Upper-middle-income economies,02941,"Shorn wool, greasy, including fleece-washed shorn wool",913.9399999999999
+41,Upper-middle-income economies,21111.01,"Meat of cattle with the bone, fresh or chilled",5239.724999999999
+42,Upper-middle-income economies,21112,"Meat of buffalo, fresh or chilled",6519.400000000001
+43,Upper-middle-income economies,21113.01,"Meat of pig with the bone, fresh or chilled",3688.35
+44,Upper-middle-income economies,21115,"Meat of sheep, fresh or chilled",6458.99
+45,Upper-middle-income economies,21116,"Meat of goat, fresh or chilled",6367.742857142856
+45b,Upper-middle-income economies,21118.01,"Horse meat, fresh or chilled",4903.4
+46,Upper-middle-income economies,21121,"Meat of chickens, fresh or chilled",2857.6846153846154
+46b,Upper-middle-income economies,21122,"Meat of ducks, fresh or chilled",2141.6
